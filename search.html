@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>
+instaresponsive design
+</title>
+<link rel="stylesheet" type="text/css" href="searchfinal.css" media="screen">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="a">
+<div class="smp">
+	<div class="lefticon"></div>
+	<div class="lefticon1"></div>
+	<div class="sm">	
+		<div class="searchsmbl"></div>
+		<div class="search"></div>
+	</div>
+	<div class="righticon">
+		<div class="refresh"></div>
+		<div class="refresh1"></div>
+		<div class="refresh1"></div>
+	</div>
+</div>
+	<div class="st">
+		<div class="stories"></div>
+		<div class="stories"></div>
+		<div class="stories"></div>
+		<div class="stories"></div>
+		<div class="stories"></div>
+		<div class="storiesp"></div>
+		<div class="storiesp"></div>
+		<div class="storiesp"></div>
+		<div class="storiesp"></div>
+		<div class="storiesp"></div>
+	</div>
+<div class="head">
+		<div class="video"></div>
+	</div>
+	
+		<div class="video1"></div>
+		<div class="feedphotos">
+		<img id="photos" class="photos" src="dk1.jpg" alt="image" onclick = darshan() >
+		
+		<img id="photos" class="photos" src="dk1.jpg" alt="image" onclick = darshan() >
+		<img id="photos" class="photos" src="dk1.jpg" alt="image" onclick = darshan()>
+		<img id="photos" class="photos1" src="dk1.jpg" alt="image" onclick = darshan()>
+		<img id="photos" class="photos1" src="dk1.jpg" alt="image" onclick = darshan()>
+		<img id="photos" class="photos1" src="dk1.jpg" alt="image" onclick = darshan()>
+		<img id="photos" class="photos2" src="dk1.jpg" alt="image" onclick = darshan()>
+		<img id="photos" class="photos2" src="dk1.jpg" alt="image" onclick = darshan()>
+		<img id="photos" class="photos2" src="dk1.jpg" alt="image" onclick = darshan()>
+		</div>
+		<div id="myModal" class="modal">
+		<img class="modal-content" id="img01">
+ 		</div>
+		
+		</div>
+	</div>
+	<div class="footer">
+		<div class="sfooter">
+			<div class="home"></div>
+			<div class="home"></div>
+			<div class="add"></div>
+			<div class="home"></div>
+			<div class="home"></div>
+		</div>
+	</div>
+
+<script>
+var modal = document.getElementById('myModal');
+var modalImg = document.getElementById("img01");
+
+function darshan(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+}
+onkeyup = function ESCclose(evt) {
+  if (evt.keyCode == 27) {
+   modal.style.display="none";
+ }}
+ var modal = document.getElementById('myModal');
+modal.addEventListener('click',function(){
+this.style.display="none";
+})
+</script>
+</body>
+</html>

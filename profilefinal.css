@@ -1,0 +1,404 @@
+@media all and (max-width:425px){
+.name{
+	background:#555555;
+	width:6vw;
+	height:3vh;
+	float:left;
+
+}
+
+.icon0right{
+	background:#555555;
+	width:3vh;
+	height:3vh;
+	float:right;
+	margin:0  1%;
+}
+.image{
+	background:#111111;
+	width:12vw;
+	height:12vw;
+	float:left;
+	margin:4% 0 3% 2%;
+	border-radius: 100%;
+	clear:left;
+	
+}
+.icon1{
+	background:#555555;
+	width:4vw;
+	height:100%;
+	float:left;
+	margin:0 12%;
+}
+.ic{
+	width:100%;
+	height:4vw;
+	float:left;
+	margin:5% 0% 1% 3%;
+	
+}
+.post{
+	background:#999999;
+	width:12vw;
+	height:100%;
+	float:left;
+	margin:0 4%;
+}
+.post1{
+	background:#999999;
+	width:12vw;
+	height:100%;
+	float:left;
+	margin:0 4%;
+}
+.post2{
+	background:#999999;
+	width:12vw;
+	height:100%;
+	float:left;
+	margin:0 4%;
+}
+.iconnames{
+	width:100%;
+	height:15%;
+	float:left;
+	margin: 2% 18% 2% 3%;
+}
+.edyp{	
+	width:100%;
+	height:3vh;
+	float:left;
+	margin: 1% 17% 1% 0;
+	border-color: #000000;
+	border-style: groove;
+}
+.editprofile{
+	margin:auto;
+	background:#999999;
+	width:15%;
+	height:80%;
+}
+.userdetails{
+	width:55%;
+	height:15%;
+	float:right;
+	margin: 1% 17% 1% 0;
+}
+.username{
+	background:#999999;
+	width:10vw;
+	height:3vh;
+	float:left;
+	clear:left;
+}
+.icon2{
+	background:#555555;
+	width:4vw;
+	height:100%;
+	float:left;
+	margin:0 9%;
+
+}
+.icn{
+	width:100%;
+	height:4vw;
+	float:left;
+	margin: 2% 0%;
+	
+}
+.photos{
+	height:27%;	
+	width:31.5%;
+	background:#111111;
+	float:left;
+}
+.photos1{
+	height:27%;	
+	width:31.5%;
+	background:#111111;
+	float:left;
+}
+.home{
+	width:5vw;
+	height:100vh;
+	background:#555555;
+	float:left;
+	margin:0 7%;
+
+}
+.add{
+	width:5vw;
+	height:100%;
+    background:#555555;
+	float:left;
+	margin:0 5%;
+}
+.footer{
+	width:100%;
+	height:5vw;
+	bottom:0;
+	position:fixed;
+	background:white;
+	}}
+	@media all and (max-width:1024px) and (min-width:425px){
+.a{
+	width:70%;
+	margin:auto;
+	height:100%;
+}
+
+.uname{
+	background:#999999;
+	width:20vw;
+	height:100%;
+	float:left;
+	margin:0 35vw;
+
+}
+
+.header{
+	width:100%;
+	height:3vh;
+	margin:2% 0 3% 0;
+}
+.image{
+	background:#111111;
+	width:12vw ;
+	height:12vw;
+	float:left;
+	margin:5% 0 0% 1%;
+	border-radius: 100%;
+	
+}
+
+.userdetails{
+	width:75%;
+	height:30%;
+	float:right;
+	margin: 6% 0% 1% 4%;
+	
+}
+.post{
+	background:#555555;
+	width:30%;
+	height:70%;
+	float:left;
+	margin:0 1%;
+}
+.post1{
+	background:#555555;
+	width:15%;
+	height:70%;
+	float:left;
+	margin:0 1%;
+}
+.post2{
+	background:#555555;
+	width:3%;
+	height:70%;
+	float:left;
+	margin:0 1%;
+}
+.iconnames{
+	width:100%;
+	height:10%;
+	margin:2% auto;
+}
+.edyp{	
+	width:95%;
+	height:10%;
+	float:left;
+	margin-bottom: 2%;
+	margin-left: -2%;
+}
+.editprofile1{
+	float:left;
+	background:#999999;
+	width:15%;
+	height:80%;
+	margin:2% 3% 2% 3%;
+	float:left;
+}
+.usernamepc{
+	background:#999999;
+	width:15%;
+	height:7%;
+	float:left;
+	margin:3% 2% 0 0;
+}
+
+.photos{
+	height:30vh;
+	width:20vw;
+	background:#111111;
+	float:left;
+	margin:1%;
+}
+.photos1{
+	height:30vh;
+	width:30vw;
+	background:#111111;
+	float:left;
+}
+.home{
+	width:5vh;
+	height:100%;
+	background:#555555;
+	float:left;
+	margin:0 7%;
+}
+
+.footer{
+	width:50%;	
+	height:100%;
+	margin:auto;
+	}
+.footerp{
+	width:100%;
+	height:5vh;
+	background:white;
+	float:left;
+	bottom:0;
+	position:fixed;
+	margin-left: -15vw;
+	}}
+	@media all and (max-width:1400px) and (min-width:1024px){
+.a{
+	width:70vw;
+	margin:auto;
+	height:100vh;
+}
+.name{
+	background:#555555;
+	width:3vw;
+	height:100%;
+	float:left;
+
+}
+.logo{
+	background:#999999;
+	width:50%;
+	height:100%;
+	float:left;
+	margin-left: 10%;
+
+}
+.namelogo{
+	
+	width:18vw;
+	height:100%;
+	float:left;
+	margin-left: 10vw;
+
+}
+.uname{
+	background:#999999;
+	width:20vw;
+	height:100%;
+	float:left;
+	margin:0 10vw;
+
+}
+.iconrightp{
+	
+	width:11vw;
+	height:100%;
+	float:right;
+	margin:0 10vw 0 0;
+}
+.icon0right{
+		background:#555555;
+	width:3vw;
+	height:100%;
+	float:left;
+	margin:0 1%;
+}
+.header{
+	width:100%;
+	height:3vw;
+	margin:2vh 0 3vh 0;
+}
+.image{
+		background:#111111;
+	width:12vw ;
+	height:12vw	;
+	float:left;
+	margin:5vh 0 2vh 1%;
+	border-radius: 100%;
+	
+}
+
+.userdetails{
+	width:50vw;
+	height:30vh;
+	float:right;
+	margin: 6% 0% 1% 4%;
+	
+}
+.post{
+		background:#999999;
+	width:30%;
+	height:70%;
+	float:left;
+	margin:0 1%;
+}
+.post1{
+		background:#999999;
+	width:15%;
+	height:70%;	
+	float:left;
+	margin:0 1%;
+}
+.post2{
+		background:#555555;
+	width:3%;
+	height:70%;
+	float:left;
+	margin:0 1%;
+}
+.iconnames{
+	width:100%;
+	height:10%;
+	margin:2% auto;
+}
+.edyp{	
+	width:95%;
+	height:10%;
+	float:left;
+	margin-bottom: 2%;
+	margin-left: -2%;
+}
+.editprofile1{
+	float:left;
+	background:#999999;
+	width:15%;
+	height:80%;
+	margin:2% 3% 2% 3%;
+	float:left;
+}
+.usernamepc{
+	background:#999999;
+	width:15vw;
+	height:7vh;
+	float:left;
+	margin:3% 2% 0 0;
+}
+
+.photos{
+	height:20vw;
+	width:20vw;
+	border-color: #000000;
+	border-style: groove;
+	float:left;
+	margin:1%;
+}
+.photos1{
+	height:20vw;
+	width:20vw;
+	border-color: #000000;
+	border-style: groove;
+	float:left;
+	margin:1%;
+}
+}

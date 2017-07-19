@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>
+instaresponsive design
+</title>
+<link rel="stylesheet" type="text/css" href="homef.css" media="screen">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="headerp">
+	<div class="header">
+	<div class="lefticon">
+			<div class="camera"></div>
+			<div class="text"></div>
+	</div>
+			<div class="logo"></div>
+	<div class="righticon">
+			<div class="logo1"></div>
+			<div class="logo1"></div>
+			<div class="logo1"></div>
+	</div>
+	</div>		
+		</div>
+		<div class="a">	
+		<div class="top">
+			<div class="b1"></div>
+			<div class="b2"></div>
+		</div>		
+		<div class="stories">
+				<div class="circle"></div>
+				<div class="circle"></div>
+				<div class="circle"></div>
+				<div class="circle"></div>
+				
+ 		</div>
+
+		
+			<div class="fh">
+
+				<div class="dp"></div>
+				<div class="names">
+				<div class="name"></div>
+				<div class="name1"></div>
+				</div>
+				<div class="dots"></div>
+				<div class="feed0"></div>
+			</div>
+		
+			<div class="footer">
+			<div class="home"></div>
+			<div class="home"></div>
+			<div class="add"></div>
+			<div class="home"></div>
+			<div class="home"></div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,344 @@
+@media all and (max-width:425px){
+.camera{
+	background:#999999;
+	width:4vh;
+	height:100%;
+	float:left;
+	margin-left: 2vw;
+}
+.logo{
+	background:#555555;
+	width:30vw;
+	margin:auto;
+	height:100%;
+	margin-top:0 
+}
+.text{
+	background:#999999;
+	width:4vh;
+	height:100%;
+	float:right;
+	margin-right: 7vw;
+    
+}
+.header{
+	
+	width:100%;	
+	margin:0 auto;
+	height:4vh;
+	position:fixed; 
+}
+.b1{
+background:#999999;
+	width:10vw;
+	height:100%;
+	float:left;
+	margin: 1% 0;
+}
+.b2{
+	background:#999999;
+	width:10vw;
+	height:100%;
+	float:right;
+	margin: 1% 0;
+}
+.top{
+	
+	width:100%;
+	margin:6vh auto 0 auto;
+	height:2vh;
+	float:left; 
+}
+.circle{
+	background-color: #111111;
+	width:8vw;
+	height:100%;
+	border-radius:100%;
+	float:left;
+	margin:4% 7%;
+
+}
+.stories{
+	margin-top: 5vh;
+	width:100vw;
+	margin:1vh auto 7vh auto;
+	height:8vw;
+	float:left;
+}
+.name{
+	width:15vw;
+	height:3vh;
+	background:#999999;
+	float:left;
+	margin:3vh 1vw;
+	display: inline;
+}
+.dp{ 
+	width:7vw;
+	height:7vw;
+	background-color: #111111;
+	float:left;
+    margin:0vw;
+    border-radius: 100%;
+
+}
+.dots{
+	width:1vw;
+	height:5vh;
+	background:#555555;
+	float:right;
+    margin:1%;
+}
+.feed0{
+	width:100%;
+	height:100vh;
+	border-style:groove;
+	border-color: #000000;
+	margin:auto;
+	margin-top:0;
+	float:left;
+}
+.home{
+	width:6vw;
+	height:100%;
+	background:#555555;
+	float:left;
+	margin:0 7vw;
+
+}
+.add{
+	width:6vw;
+	height:100%;
+	background:#555555;
+	float:left;
+	margin:0 5vw;
+}
+.footer{
+	width:100vw;
+	height:6vw;
+	background:white;
+	float:left;
+	position:fixed;
+	bottom:0;
+}
+}
+@media all and (max-width:1024px) and (min-width:425px){
+.a{
+	width:40vw;
+	margin:auto;
+}
+
+.logo{
+	background:#999999;
+	width:15vw;	
+	float:left;
+	height:60%;
+	margin-left :18vw; 
+}
+
+.lefticon{
+background:#555555;
+	width:5vw;
+	float:left;
+	height:100%;
+	float: left; 	
+}
+
+.headerp{
+	width:100%;	
+	margin: auto;
+	height:13vh; 
+}
+.header{
+	margin-top:0
+	width:100vw;	
+	margin:1% auto;
+	height:50%; 
+}
+
+.stories{
+	margin-top: 5%;
+
+}
+.names{
+	width:25%;
+	height:10%;
+	margin-top:3%;
+	float:left;
+}
+.name{
+	width:70%;
+	height:20%;
+	background:#999999;
+	float:left;
+	margin:3%;
+}
+.name1{
+	width:100%;
+	height:20%;
+background:#999999;
+	float:left;
+	margin:3%;
+	}
+.dp{ 
+	width:5vw;
+	height:5vw;
+	background-color: #111111;
+	float:left; 
+    margin:1%;
+    border-radius: 100%;
+
+}	
+.fh{
+	width:100%;
+	height:100vh;
+	border-style:groove;
+	border-color: #000000;
+	margin:auto;
+	margin-top:0%;
+}
+.feed0{
+	width:100%;
+	height:80%;
+	background-color: #111111;
+	margin:auto;
+	margin-top:5vh;
+	float:left;
+}
+.home{
+	width:5vw;
+	height:100%;
+	background:#555555;
+	float:left;
+	margin:0 9vw;
+
+}
+
+.footer{
+	width:100vw;
+	height:5vw;
+	background:white;
+	margin-left: -30%;
+	position:fixed;
+	bottom:0;
+}
+}
+@media all and (max-width:1400px) and (min-width:1024px){
+	.a{
+	width:40vw;
+	margin:auto;
+}
+.camera{
+	background:#555555;
+	width:2vw;
+	height:100%;
+	float:left;
+}
+.logo{
+	background:#999999;
+	width:15vw;	
+	float:left;
+	height:60%;
+	margin-left :13vw; 
+}
+.logo1{
+	background:#555555;
+	width:2vw;
+	float:right;
+	margin:0 2%;
+	height:100%;
+	margin-top:0 
+}
+.righticon{
+	
+	width:12vw;
+	float:right;
+	height:100%;
+	margin-right: 15vw; 
+}
+.lefticon{
+
+	width:12vw;
+	float:left;
+	height:100%;
+	margin-left: 17vw; 	
+}
+.text{
+	background:#999999;
+	width:70%;
+	height:60%;
+	float:left;
+	margin-top: 1vh;
+	margin-left:1vh;
+    
+}
+.headerp{
+	width:100%;	
+	margin: auto;
+	height:13vh; 
+}
+.header{
+
+	width:100%;	
+	margin:3vh auto;
+	height:2vw; 
+}
+
+.stories{
+	margin-top: 5%;
+
+}
+.names{
+	width:25%;
+	height:10vh;
+	margin-top:3vh;
+	float:left;
+}
+.name{
+	width:70%;
+	height:20%;
+	background:#999999;
+	float:left;
+	margin:3%;
+}
+.name1{
+	width:100%;
+	height:20%;
+background:#999999;
+	float:left;
+	margin:3%;
+	}
+.dp{ 
+	width:4vw;
+	height:4vw;
+	background-color: #111111;
+	float:left;
+    margin:1%;
+    border-radius: 100%;
+
+}
+
+.footer{
+	width:100%;
+	height:7%;
+	border-style:groove;
+	border-color: #000000;
+	
+}
+.fh{
+	width:100%;
+	height:100%;
+	border-style:groove;
+	border-color: #000000;
+	margin:auto;
+	margin-top:0%;
+}
+.feed0{
+	width:100%;
+	height:90%;
+	background-color: #111111;
+	margin:auto;
+	margin-top:5%;
+	float:left;
+}
+}

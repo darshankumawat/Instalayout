@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>
+instaresponsive design
+</title>
+<link rel="stylesheet" type="text/css" href="profilefinal.css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<div class="header">
+<div class="namelogo">
+	<div class="name"></div>
+	<div class="logo"></div>
+</div>
+	<div class="uname"></div>
+	<div class=iconrightp>
+	<div class="icon0right"></div>
+	<div class="icon0right"></div>
+	<div class="icon0right"></div>
+	</div>
+</div> 
+<div class="a">
+	<div class="iconright"></div>
+	<div class="iconright"></div>
+	<div class="image"></div>
+<div class="userdetails">
+<div class="ic">
+	<div class="icon1"></div>
+	<div class="icon1"></div>
+	<div class="icon1"></div>
+</div>
+<div class="iconnames">
+	<div class="post"></div>
+	<div class="post1"></div>
+	<div class="post2"></div>
+</div>
+	<div class="edyp">
+	<div class="editprofile"></div>	
+	<div class="editprofile1"></div>	
+	<div class="editprofile1"></div>
+	<div class="editprofile1"></div>	
+	</div>
+	<div class="usernamepc"></div>
+</div>
+	<div class="username"></div>
+<div class="icn">
+	<div class="icon2"></div>
+	<div class="icon2"></div>
+	<div class="icon2"></div>
+	<div class="icon2"></div>
+</div>
+<div class="images">
+	<img class="photos" src="dk1.jpg" alt="image" >
+	<img class="photos" src="dk1.jpg" alt="image" >
+	<img class="photos" src="dk1.jpg" alt="image" >
+	<img class="photos" src="dk1.jpg" alt="image" >
+	<img class="photos" src="dk1.jpg" alt="image" >
+	<img class="photos" src="dk1.jpg" alt="image" >
+
+
+
+</div>
+<div class="footerp">
+<div class="footer">
+			<div class="home"></div>
+			<div class="home"></div>
+			<div class="add"></div>
+			<div class="home"></div>
+			<div class="home"></div>
+</div>
+</div>
+</body>
+</html>
